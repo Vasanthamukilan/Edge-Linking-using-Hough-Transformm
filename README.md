@@ -60,17 +60,19 @@ cv2.destroyAllWindows()
 ## Output
 
 ### Input image and grayscale image
-![WhatsApp Image 2024-04-10 at 11 09 31_8e788b47](https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/32386311-5adf-4c16-914d-c233b2e33777)
-![WhatsApp Image 2024-04-10 at 11 09 58_4f44c31b](https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/f7d7fd9d-66a9-49b1-86c2-cba7c02f2e5c)
+
+<img height=25% width=60% src="https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/32386311-5adf-4c16-914d-c233b2e33777">
+
+<img height=30% width=60% src="https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/f7d7fd9d-66a9-49b1-86c2-cba7c02f2e5c">
 
 
 ### Canny Edge detector output
-![WhatsApp Image 2024-04-10 at 11 10 23_b31d75bd](https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/67580a82-e08a-4186-9e7f-f1aac20d2717)
 
-
+<img height=30% width=60% src="https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/67580a82-e08a-4186-9e7f-f1aac20d2717">
 
 ### Display the result of the Hough transform
-![WhatsApp Image 2024-04-10 at 11 10 52_941bf782](https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/5a5b96d4-3a64-452b-8e21-f7975d416303)
+
+<img height=30% width=60% src="https://github.com/Ragu-123/Edge-Linking-using-Hough-Transformm/assets/113915622/5a5b96d4-3a64-452b-8e21-f7975d416303">
 
 
 
